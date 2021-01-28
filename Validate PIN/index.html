@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Validar seu PIN</title>
+        <link rel="stylesheet" href="file.css" />
+        <link
+            href="https://fonts.googleapis.com/css?family=Orbitron"
+            rel="stylesheet"
+            type="text/css"
+        />
+    </head>
+    <body onload="animation()">
+        <p id="p">
+            <em>É necessário resetar o display ao adicionar novos números.</em>
+        </p>
+        <div id="interface" class="interface">
+            <div type="text" maxlength="4" id="display" class="display"></div>
+            <div class="numeros">
+                <button onclick="valor(1)" id="btn-num" class="num">1</button>
+                <button onclick="valor(2)" id="btn-num" class="num">2</button>
+                <button onclick="valor(3)" id="btn-num" class="num">3</button>
+                <button onclick="valor(4)" id="btn-num" class="num">4</button>
+                <button onclick="valor(5)" id="btn-num" class="num">5</button>
+                <button onclick="valor(6)" id="btn-num" class="num">6</button>
+                <button onclick="valor(7)" id="btn-num" class="num">7</button>
+                <button onclick="valor(8)" id="btn-num" class="num">8</button>
+                <button onclick="valor(9)" id="btn-num" class="num">9</button>
+                <button onclick="valor(0)" id="btn-num" class="num">0</button>
+            </div>
+            <div class="finalizar">
+                <button id="btn-l" class="fim">Apagar</button>
+                <button id="btn-v" class="fim">Confirmar</button>
+            </div>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>
