@@ -1,6 +1,8 @@
 
 ## Validade PIN with JavaScript (Regex)
 
+> #### by guilhermevialle
+
 ### Features
 
 - Functional
