@@ -17,6 +17,8 @@
 
 ![](https://github.com/guilhermevialle/Validate-PIN/blob/main/Validate%20PIN/Screenshots/capture2.PNG)
 
+- #### If invalid:
+
 ![](https://github.com/guilhermevialle/Validate-PIN/blob/main/Validate%20PIN/Screenshots/capture3.PNG)
 
 ------------
