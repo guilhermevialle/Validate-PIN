@@ -28,4 +28,4 @@
 #### Social Media
 
 - https://twitter.com/guivialle
-- https://www.instagram.com/guilherme.vialle/?hl=pt-br
+- https://www.instagram.com/guilherme.vialle/
