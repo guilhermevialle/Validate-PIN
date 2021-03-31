@@ -10,7 +10,7 @@
 - Lite
 - Regex
 
-### Screenshots
+### Preview
 - #### Interface
 
 ![](https://github.com/guilhermevialle/Validate-PIN/blob/main/Validate%20PIN/Screenshots/capture.PNG)
