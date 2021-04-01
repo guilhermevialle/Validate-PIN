@@ -13,15 +13,15 @@
 ### Preview
 - #### Interface
 
-![](https://github.com/guilhermevialle/Validate-PIN/blob/main/Validate%20PIN/Screenshots/capture.PNG)
+<img src="https://raw.githubusercontent.com/guilhermevialle/Validate-PIN/main/Validate%20PIN/Screenshots/capture.PNG" width="410px">
 
 - #### The result is printed on the display according to such validation
 
-![](https://github.com/guilhermevialle/Validate-PIN/blob/main/Validate%20PIN/Screenshots/capture2.PNG)
+<img src="https://raw.githubusercontent.com/guilhermevialle/Validate-PIN/main/Validate%20PIN/Screenshots/capture2.PNG" width="410px">
 
 - #### If invalid:
 
-![](https://github.com/guilhermevialle/Validate-PIN/blob/main/Validate%20PIN/Screenshots/capture3.PNG)
+<img src="https://raw.githubusercontent.com/guilhermevialle/Validate-PIN/main/Validate%20PIN/Screenshots/capture3.PNG" width="410px">
 
 ------------
 
